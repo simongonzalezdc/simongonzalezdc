@@ -11,7 +11,7 @@ I build AI agent systems — multi-agent loops, MCP servers, evaluation framewor
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [mcp-video](https://github.com/Pastorsimon1798/mcp-video) | Video editing MCP server · 19 tools · 276 tests · works with Claude Code, Cursor, any MCP client | Python |
-| [DialectOS](https://github.com/Pastorsimon1798/DialectOS) | AI-powered language and communication system | TypeScript |
+| [DialectOS](https://github.com/Pastorsimon1798/DialectOS) | Spanish dialect translation MCP server · 16 tools · 20 regional variants (es-MX, es-ES, es-AR, es-CO +more) · handles markdown, i18n, API docs, code comments · published to npm as `@espanol/mcp` | TypeScript |
 | EF-VA / Liam | Multi-agent executive function assistant · agent loop · Telegram · Google Workspace · MCP · security/audit layers | Python |
 | Self-Town | Multi-modal therapeutic agent system · IFS/DBT/CBT/ACT · TUI + web UI · multi-agent routing | TypeScript |
 | Liminal | Self-recursive creative coding agent · quality gates · automated evaluation · iteration history | TypeScript |
