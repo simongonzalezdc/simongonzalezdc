@@ -19,7 +19,6 @@ My background is a little unusual in a useful way: 11 years in enterprise operat
 - **Epoch**: time estimation MCP server for AI-assisted teams; it needs real users and estimated-vs-actual feedback so its calibration data gets better.
 - **DialectOS**: Spanish localization QA and dialect-aware translation workflows for product copy, docs, and launch review.
 - **OpenGlaze**: open-source pottery software for ceramic glaze calculation, UMF analysis, CTE estimation, and recipe management.
-- **Liminal**: creative coding and AI-assisted generative art workflows for shaders, sketches, and iterative visual systems.
 - **Repo metadata and AI discovery**: README, topics, descriptions, `llms.txt`, docs, examples, package metadata, and release surfaces that help humans and AI assistants understand a project quickly.
 
 ## Featured Work
@@ -55,20 +54,7 @@ Then use it on real tasks and share anonymized feedback: estimated duration, act
 | [KyaniteLabs/DialectOS](https://github.com/KyaniteLabs/DialectOS) | Spanish dialect localization MCP server and CLI for regional variants, register control, structure preservation, and translation QA. |
 | [KyaniteLabs/openglaze](https://github.com/KyaniteLabs/openglaze) | Open-source ceramic glaze calculator, UMF analyzer, CTE estimator, recipe manager, and self-hosted studio tool for potters. |
 | [KyaniteLabs/dev-learning-archaeologist](https://github.com/KyaniteLabs/dev-learning-archaeologist) | Forensic git-history learning diagnostic for AI-assisted developers and repository archaeology. |
-| [KyaniteLabs/Innerscape](https://github.com/KyaniteLabs/Innerscape) | Personal growth OS for journaling, emotional check-ins, habits, goals, tasks, sleep logs, and self-awareness workflows. |
-| [KyaniteLabs/.github](https://github.com/KyaniteLabs/.github) | Organization profile, shared GitHub metadata, issue templates, workflow templates, and reusable CI defaults. |
-
-### Personal And Forked Public Repositories
-
-| Project | What it is |
-| --- | --- |
-| [simongonzalezdc/simongonzalezdc](https://github.com/simongonzalezdc/simongonzalezdc) | Public GitHub profile README and developer presence. |
-| [simongonzalezdc/social-autoresponder](https://github.com/simongonzalezdc/social-autoresponder) | AI-powered Instagram comments and DM autoresponder with demo mode, brand voice controls, keyword triggers, analytics, and Next.js dashboard. |
-| [simongonzalezdc/mcp-find](https://github.com/simongonzalezdc/mcp-find) | Forked/open MCP server directory project for discovering Model Context Protocol servers. |
-| [simongonzalezdc/awesome-mcp-servers](https://github.com/simongonzalezdc/awesome-mcp-servers) | Forked awesome list of MCP servers. |
-| [simongonzalezdc/awesome-mcp-servers-1](https://github.com/simongonzalezdc/awesome-mcp-servers-1) | Forked comprehensive collection of Model Context Protocol servers. |
-| [simongonzalezdc/Pushing-Dispatch_-FORK-](https://github.com/simongonzalezdc/Pushing-Dispatch_-FORK-) | Forked multi-model dispatch harness for AI coding agents, provider routing, worker briefs, and orchestration safety rails. |
-| [simongonzalezdc/Interpreted-Context-Methdology](https://github.com/simongonzalezdc/Interpreted-Context-Methdology) | Forked Interpreted Context Methodology work on folder structure, agent architecture, and context engineering. |
+| [KyaniteLabs/Innerscape](https://github.com/KyaniteLabs/Innerscape) | Personal growth OS for journaling, emotional check-ins, habits, goals, tasks, sleep logs, and self-awareness 
 
 ## What I Build Well
 
@@ -80,7 +66,7 @@ Then use it on real tasks and share anonymized feedback: estimated duration, act
 
 ## Operating Taste
 
-I like tools that are understandable, local-first when privacy matters, boring where reliability matters, and polished where public trust matters. The best AI systems are not just clever prompts. They are inspectable workflows with clear contracts, honest docs, good defaults, and enough tests to catch the weird edge cases before users do.
+I like tools that are accesible, understandable, local-first when privacy matters, boring where reliability matters, and polished where public trust matters. The best AI systems are not just clever prompts. They are inspectable workflows with clear contracts, honest docs, good defaults, and enough tests to catch the weird edge cases before users do.
 
 ## Background
 
