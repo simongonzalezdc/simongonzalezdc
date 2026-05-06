@@ -12,14 +12,6 @@ I build practical AI tools that survive contact with real workflows: Model Conte
 
 My background is a little unusual in a useful way: 11 years in enterprise operations, learning systems, training, enablement, and HR technology, plus hands-on open-source engineering across Python, TypeScript, automation, media tooling, and AI agent infrastructure. I care about the parts where demos usually break: install paths, docs, metadata, tests, local execution, permissions, and whether a human can actually understand what the system is doing.
 
-## Current Focus
-
-- **Kyanite Labs**: open-source AI tools, MCP servers, and domain software for agent workflows.
-- **mcp-video**: local video editing automation for AI agents, FFmpeg, subtitles, clips, reels, and media pipelines.
-- **Epoch**: time estimation MCP server for AI-assisted teams; it needs real users and estimated-vs-actual feedback so its calibration data gets better.
-- **DialectOS**: Spanish localization QA and dialect-aware translation workflows for product copy, docs, and launch review.
-- **OpenGlaze**: open-source pottery software for ceramic glaze calculation, UMF analysis, CTE estimation, and recipe management.
-- **Repo metadata and AI discovery**: README, topics, descriptions, `llms.txt`, docs, examples, package metadata, and release surfaces that help humans and AI assistants understand a project quickly.
 
 ## Featured Work
 
