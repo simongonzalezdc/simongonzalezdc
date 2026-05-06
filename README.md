@@ -43,19 +43,6 @@ claude mcp add epoch -- npx @puenteworks/epoch
 
 Then use it on real tasks and share anonymized feedback: estimated duration, actual duration, task complexity, team context, model used, token/cost estimate, and whether the risk forecast was right. That data is how Epoch gets sharper.
 
-## All Public Projects
-
-### Kyanite Labs
-
-| Project | What it is |
-| --- | --- |
-| [KyaniteLabs/mcp-video](https://github.com/KyaniteLabs/mcp-video) | Video editing MCP server, Python client, and CLI for FFmpeg, Hyperframes, subtitles, clips, and media automation. |
-| [KyaniteLabs/Epoch](https://github.com/KyaniteLabs/Epoch) | Time estimation MCP server for AI agents: PERT, COCOMO II, Monte Carlo, sprint forecasting, token-to-time mapping, model-cost estimation, and schedule risk. |
-| [KyaniteLabs/DialectOS](https://github.com/KyaniteLabs/DialectOS) | Spanish dialect localization MCP server and CLI for regional variants, register control, structure preservation, and translation QA. |
-| [KyaniteLabs/openglaze](https://github.com/KyaniteLabs/openglaze) | Open-source ceramic glaze calculator, UMF analyzer, CTE estimator, recipe manager, and self-hosted studio tool for potters. |
-| [KyaniteLabs/dev-learning-archaeologist](https://github.com/KyaniteLabs/dev-learning-archaeologist) | Forensic git-history learning diagnostic for AI-assisted developers and repository archaeology. |
-| [KyaniteLabs/Innerscape](https://github.com/KyaniteLabs/Innerscape) | Personal growth OS for journaling, emotional check-ins, habits, goals, tasks, sleep logs, and self-awareness 
-
 ## What I Build Well
 
 - MCP servers and agent tools for Claude Code, Cursor, Codex-style workflows, and local automation.
