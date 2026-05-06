@@ -1,42 +1,71 @@
-# Simon Gonzalez De Cruz
+<p align="center">
+  <a href="https://kyanitelabs.tech">
+    <img src="https://kyanitelabs.tech/static/brand/hero_crystal_workbench_1672x941.png" alt="Kyanite Labs crystal workbench: AI tools, MCP servers, and creative software" width="100%">
+  </a>
+</p>
 
-**AI Systems Builder · Multi-Agent Architectures · MCP · Long Beach, CA**
+# Simon Gonzalez De Cruz - AI Systems Builder
 
-I build AI agent systems — multi-agent loops, MCP servers, evaluation frameworks, context architectures. I also have 11 years of enterprise operations experience at Capital Group, SCE, and PIMCO, which means I understand where these systems break in the real world.
+**AI systems builder · MCP server developer · product-minded automation engineer · Long Beach, CA**
 
----
+I build practical AI tools that survive contact with real workflows: Model Context Protocol servers, agent-facing CLIs, repo-native product surfaces, launch docs, evaluation loops, and domain software for people doing messy creative or operational work. My current work lives primarily at [Kyanite Labs](https://github.com/KyaniteLabs), where I build open-source MCP servers and AI tools for video editing, localization, estimation, creative coding, and domain-specific software.
 
-## What I'm Building
+My background is a little unusual in a useful way: 11 years in enterprise operations, learning systems, training, enablement, and HR technology, plus hands-on open-source engineering across Python, TypeScript, automation, media tooling, and AI agent infrastructure. I care about the parts where demos usually break: install paths, docs, metadata, tests, local execution, permissions, and whether a human can actually understand what the system is doing.
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [mcp-video](https://github.com/Pastorsimon1798/mcp-video) | Video editing MCP server · 19 tools · 276 tests · works with Claude Code, Cursor, any MCP client | Python |
-| [DialectOS](https://github.com/Pastorsimon1798/DialectOS) | Spanish dialect translation MCP server · 16 tools · 20 regional variants (es-MX, es-ES, es-AR, es-CO +more) · handles markdown, i18n, API docs, code comments · published to npm as `@espanol/mcp` | TypeScript |
-| EF-VA / Liam | Multi-agent executive function assistant · agent loop · Telegram · Google Workspace · MCP · security/audit layers | Python |
-| Self-Town | Multi-modal therapeutic agent system · IFS/DBT/CBT/ACT · TUI + web UI · multi-agent routing | TypeScript |
-| Liminal | Self-recursive creative coding agent · quality gates · automated evaluation · iteration history | TypeScript |
+## Current Focus
 
----
+- **Kyanite Labs**: open-source AI tools, MCP servers, and domain software for agent workflows.
+- **mcp-video**: local video editing automation for AI agents, FFmpeg, subtitles, clips, reels, and media pipelines.
+- **DialectOS**: Spanish localization QA and dialect-aware translation workflows for product copy, docs, and launch review.
+- **OpenGlaze**: open-source pottery software for ceramic glaze calculation, UMF analysis, CTE estimation, and recipe management.
+- **Liminal**: creative coding and AI-assisted generative art workflows for shaders, sketches, and iterative visual systems.
+- **Repo metadata and AI discovery**: README, topics, descriptions, `llms.txt`, docs, examples, package metadata, and release surfaces that help humans and AI assistants understand a project quickly.
+
+## Featured Work
+
+| Project | What it is | Why it matters |
+| --- | --- | --- |
+| [KyaniteLabs/mcp-video](https://github.com/KyaniteLabs/mcp-video) | Video editing MCP server, Python library, and CLI with FFmpeg and Hyperframes tooling. | Lets Claude Code, Cursor, Codex-style agents, and other MCP clients inspect and edit video locally. |
+| [KyaniteLabs/DialectOS](https://github.com/KyaniteLabs/DialectOS) | Spanish dialect localization MCP server and CLI. | Helps teams translate and QA Spanish across regional variants, register, docs, markdown, and product copy. Published as `@espanol/mcp`. |
+| [KyaniteLabs/openglaze](https://github.com/KyaniteLabs/openglaze) | Ceramic glaze calculator, UMF analyzer, CTE estimator, and recipe manager. | Brings self-hosted open-source software to potters and ceramic artists. |
+| [KyaniteLabs/Epoch](https://github.com/KyaniteLabs/Epoch) | Time, cost, schedule, token, and risk estimation tools for AI agents. | Gives planning agents a more grounded way to reason about delivery risk. |
+| [KyaniteLabs/dev-learning-archaeologist](https://github.com/KyaniteLabs/dev-learning-archaeologist) | Git-history learning diagnostic and codebase archaeology tool. | Turns repository history into evidence-backed learning plans and engineering narratives. |
+
+## What I Build Well
+
+- MCP servers and agent tools for Claude Code, Cursor, Codex-style workflows, and local automation.
+- Python and TypeScript CLIs, APIs, test suites, release pipelines, and package metadata.
+- AI-search-friendly documentation: README, `llms.txt`, `ai.txt`, examples, changelogs, docs sites, and launch copy.
+- Workflow automation for media, localization, creative coding, learning systems, and operational teams.
+- QA systems that look for silent failures, stale metadata, missing docs, broken install paths, and unverified claims.
+
+## Operating Taste
+
+I like tools that are understandable, local-first when privacy matters, boring where reliability matters, and polished where public trust matters. The best AI systems are not just clever prompts. They are inspectable workflows with clear contracts, honest docs, good defaults, and enough tests to catch the weird edge cases before users do.
 
 ## Background
 
-- **PuenteWorks** (2025–present) — AI consulting and custom agent systems for small businesses
-- **Capital Group** (2020–2025) — Talent Development Lead · Workday Learning Admin · Microsoft 365 Copilot early adopter
-- **Southern California Edison** (2019–2020) — Project/Program Analyst · SAP SuccessFactors
-- **PIMCO** (2018) — Training & Org Development · Cornerstone LMS
-- **American Red Cross** (2012–2017) — Training Operations · Bilingual Instructor
+- **Kyanite Labs**: AI tools, MCP servers, domain software, and repo-native productization.
+- **PuenteWorks**: AI consulting and workflow automation for small businesses.
+- **Capital Group**: talent development, Workday Learning, Microsoft 365 Copilot adoption, learning operations.
+- **Southern California Edison**: project/program analysis, SAP SuccessFactors, operations support.
+- **PIMCO** and **American Red Cross**: training operations, enablement, and bilingual instruction.
 
----
+## Keywords
 
-## Skills
+`model context protocol` `mcp server` `ai agents` `agent tools` `python` `typescript` `ffmpeg automation` `video editing automation` `local-first ai` `developer tools` `ai evaluation` `repo metadata` `llms.txt` `spanish localization` `creative coding` `open-source software`
 
-`multi-agent systems` `MCP protocol` `LLMs` `Python` `TypeScript` `SvelteKit` `Tauri` `prompt engineering` `AI evaluation` `context architecture` `Workday` `SAP SuccessFactors` `SQL` `Power BI`
+## Best Starting Points
 
----
+- Want the clearest public proof? Start with [mcp-video](https://github.com/KyaniteLabs/mcp-video), [DialectOS](https://github.com/KyaniteLabs/DialectOS), [Epoch](https://github.com/KyaniteLabs/Epoch), or [OpenGlaze](https://github.com/KyaniteLabs/openglaze).
+- Want the company/project surface? Start with [Kyanite Labs](https://github.com/KyaniteLabs) or [kyanitelabs.tech](https://kyanitelabs.tech).
+- Want to understand my operating style? Look for the docs, tests, release notes, examples, repo metadata, and launch checklists. That is usually where the real quality signal is.
 
 ## Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-simongonzalezdc-blue?logo=linkedin)](https://www.linkedin.com/in/simongonzalezdc)
-[![Email](https://img.shields.io/badge/Email-simon@puenteworks.com-green?logo=gmail)](mailto:simon@puenteworks.com)
+[![Kyanite Labs](https://img.shields.io/badge/KyaniteLabs-AI%20tools%20and%20MCP%20servers-2f6fed)](https://github.com/KyaniteLabs)
+[![Website](https://img.shields.io/badge/Website-kyanitelabs.tech-0f766e)](https://kyanitelabs.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-simongonzalezdc-0a66c2?logo=linkedin)](https://www.linkedin.com/in/simongonzalezdc)
+[![Email](https://img.shields.io/badge/Email-simon%40puenteworks.com-334155)](mailto:simon@puenteworks.com)
 
-**Open to full-time AI roles** — Operations, Solutions, Product, Engineering. Available immediately.
+Open to AI systems, developer tools, product engineering, solutions engineering, and operations automation roles where the job is to make useful systems real.
