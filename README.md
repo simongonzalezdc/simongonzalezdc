@@ -62,13 +62,13 @@ Then use it on real tasks and share anonymized feedback: estimated duration, act
 
 | Project | What it is |
 | --- | --- |
-| [Pastorsimon1798/Pastorsimon1798](https://github.com/Pastorsimon1798/Pastorsimon1798) | Public GitHub profile README and developer presence. |
-| [Pastorsimon1798/social-autoresponder](https://github.com/Pastorsimon1798/social-autoresponder) | AI-powered Instagram comments and DM autoresponder with demo mode, brand voice controls, keyword triggers, analytics, and Next.js dashboard. |
-| [Pastorsimon1798/mcp-find](https://github.com/Pastorsimon1798/mcp-find) | Forked/open MCP server directory project for discovering Model Context Protocol servers. |
-| [Pastorsimon1798/awesome-mcp-servers](https://github.com/Pastorsimon1798/awesome-mcp-servers) | Forked awesome list of MCP servers. |
-| [Pastorsimon1798/awesome-mcp-servers-1](https://github.com/Pastorsimon1798/awesome-mcp-servers-1) | Forked comprehensive collection of Model Context Protocol servers. |
-| [Pastorsimon1798/Pushing-Dispatch_-FORK-](https://github.com/Pastorsimon1798/Pushing-Dispatch_-FORK-) | Forked multi-model dispatch harness for AI coding agents, provider routing, worker briefs, and orchestration safety rails. |
-| [Pastorsimon1798/Interpreted-Context-Methdology](https://github.com/Pastorsimon1798/Interpreted-Context-Methdology) | Forked Interpreted Context Methodology work on folder structure, agent architecture, and context engineering. |
+| [simongonzalezdc/simongonzalezdc](https://github.com/simongonzalezdc/simongonzalezdc) | Public GitHub profile README and developer presence. |
+| [simongonzalezdc/social-autoresponder](https://github.com/simongonzalezdc/social-autoresponder) | AI-powered Instagram comments and DM autoresponder with demo mode, brand voice controls, keyword triggers, analytics, and Next.js dashboard. |
+| [simongonzalezdc/mcp-find](https://github.com/simongonzalezdc/mcp-find) | Forked/open MCP server directory project for discovering Model Context Protocol servers. |
+| [simongonzalezdc/awesome-mcp-servers](https://github.com/simongonzalezdc/awesome-mcp-servers) | Forked awesome list of MCP servers. |
+| [simongonzalezdc/awesome-mcp-servers-1](https://github.com/simongonzalezdc/awesome-mcp-servers-1) | Forked comprehensive collection of Model Context Protocol servers. |
+| [simongonzalezdc/Pushing-Dispatch_-FORK-](https://github.com/simongonzalezdc/Pushing-Dispatch_-FORK-) | Forked multi-model dispatch harness for AI coding agents, provider routing, worker briefs, and orchestration safety rails. |
+| [simongonzalezdc/Interpreted-Context-Methdology](https://github.com/simongonzalezdc/Interpreted-Context-Methdology) | Forked Interpreted Context Methodology work on folder structure, agent architecture, and context engineering. |
 
 ## What I Build Well
 
