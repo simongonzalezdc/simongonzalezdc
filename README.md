@@ -16,6 +16,7 @@ My background is a little unusual in a useful way: 11 years in enterprise operat
 
 - **Kyanite Labs**: open-source AI tools, MCP servers, and domain software for agent workflows.
 - **mcp-video**: local video editing automation for AI agents, FFmpeg, subtitles, clips, reels, and media pipelines.
+- **Epoch**: time estimation MCP server for AI-assisted teams; it needs real users and estimated-vs-actual feedback so its calibration data gets better.
 - **DialectOS**: Spanish localization QA and dialect-aware translation workflows for product copy, docs, and launch review.
 - **OpenGlaze**: open-source pottery software for ceramic glaze calculation, UMF analysis, CTE estimation, and recipe management.
 - **Liminal**: creative coding and AI-assisted generative art workflows for shaders, sketches, and iterative visual systems.
@@ -28,8 +29,46 @@ My background is a little unusual in a useful way: 11 years in enterprise operat
 | [KyaniteLabs/mcp-video](https://github.com/KyaniteLabs/mcp-video) | Video editing MCP server, Python library, and CLI with FFmpeg and Hyperframes tooling. | Lets Claude Code, Cursor, Codex-style agents, and other MCP clients inspect and edit video locally. |
 | [KyaniteLabs/DialectOS](https://github.com/KyaniteLabs/DialectOS) | Spanish dialect localization MCP server and CLI. | Helps teams translate and QA Spanish across regional variants, register, docs, markdown, and product copy. Published as `@espanol/mcp`. |
 | [KyaniteLabs/openglaze](https://github.com/KyaniteLabs/openglaze) | Ceramic glaze calculator, UMF analyzer, CTE estimator, and recipe manager. | Brings self-hosted open-source software to potters and ceramic artists. |
-| [KyaniteLabs/Epoch](https://github.com/KyaniteLabs/Epoch) | Time, cost, schedule, token, and risk estimation tools for AI agents. | Gives planning agents a more grounded way to reason about delivery risk. |
+| [KyaniteLabs/Epoch](https://github.com/KyaniteLabs/Epoch) | Time, cost, schedule, token, and risk estimation tools for AI agents. | Gives planning agents a grounded way to reason about delivery risk, and gets better from real estimated-vs-actual usage feedback. |
 | [KyaniteLabs/dev-learning-archaeologist](https://github.com/KyaniteLabs/dev-learning-archaeologist) | Git-history learning diagnostic and codebase archaeology tool. | Turns repository history into evidence-backed learning plans and engineering narratives. |
+
+## Help Epoch Get Better
+
+[Epoch](https://github.com/KyaniteLabs/Epoch) is the project I most want people to try right now. AI agents are terrible at estimating time unless they have tools, reference classes, and calibration feedback. Epoch gives them those tools.
+
+Install it in Claude Code, Cursor, VS Code, Windsurf, or any MCP client:
+
+```bash
+claude mcp add epoch -- npx @puenteworks/epoch
+```
+
+Then use it on real tasks and share anonymized feedback: estimated duration, actual duration, task complexity, team context, model used, token/cost estimate, and whether the risk forecast was right. That data is how Epoch gets sharper.
+
+## All Public Projects
+
+### Kyanite Labs
+
+| Project | What it is |
+| --- | --- |
+| [KyaniteLabs/mcp-video](https://github.com/KyaniteLabs/mcp-video) | Video editing MCP server, Python client, and CLI for FFmpeg, Hyperframes, subtitles, clips, and media automation. |
+| [KyaniteLabs/Epoch](https://github.com/KyaniteLabs/Epoch) | Time estimation MCP server for AI agents: PERT, COCOMO II, Monte Carlo, sprint forecasting, token-to-time mapping, model-cost estimation, and schedule risk. |
+| [KyaniteLabs/DialectOS](https://github.com/KyaniteLabs/DialectOS) | Spanish dialect localization MCP server and CLI for regional variants, register control, structure preservation, and translation QA. |
+| [KyaniteLabs/openglaze](https://github.com/KyaniteLabs/openglaze) | Open-source ceramic glaze calculator, UMF analyzer, CTE estimator, recipe manager, and self-hosted studio tool for potters. |
+| [KyaniteLabs/dev-learning-archaeologist](https://github.com/KyaniteLabs/dev-learning-archaeologist) | Forensic git-history learning diagnostic for AI-assisted developers and repository archaeology. |
+| [KyaniteLabs/Innerscape](https://github.com/KyaniteLabs/Innerscape) | Personal growth OS for journaling, emotional check-ins, habits, goals, tasks, sleep logs, and self-awareness workflows. |
+| [KyaniteLabs/.github](https://github.com/KyaniteLabs/.github) | Organization profile, shared GitHub metadata, issue templates, workflow templates, and reusable CI defaults. |
+
+### Personal And Forked Public Repositories
+
+| Project | What it is |
+| --- | --- |
+| [Pastorsimon1798/Pastorsimon1798](https://github.com/Pastorsimon1798/Pastorsimon1798) | Public GitHub profile README and developer presence. |
+| [Pastorsimon1798/social-autoresponder](https://github.com/Pastorsimon1798/social-autoresponder) | AI-powered Instagram comments and DM autoresponder with demo mode, brand voice controls, keyword triggers, analytics, and Next.js dashboard. |
+| [Pastorsimon1798/mcp-find](https://github.com/Pastorsimon1798/mcp-find) | Forked/open MCP server directory project for discovering Model Context Protocol servers. |
+| [Pastorsimon1798/awesome-mcp-servers](https://github.com/Pastorsimon1798/awesome-mcp-servers) | Forked awesome list of MCP servers. |
+| [Pastorsimon1798/awesome-mcp-servers-1](https://github.com/Pastorsimon1798/awesome-mcp-servers-1) | Forked comprehensive collection of Model Context Protocol servers. |
+| [Pastorsimon1798/Pushing-Dispatch_-FORK-](https://github.com/Pastorsimon1798/Pushing-Dispatch_-FORK-) | Forked multi-model dispatch harness for AI coding agents, provider routing, worker briefs, and orchestration safety rails. |
+| [Pastorsimon1798/Interpreted-Context-Methdology](https://github.com/Pastorsimon1798/Interpreted-Context-Methdology) | Forked Interpreted Context Methodology work on folder structure, agent architecture, and context engineering. |
 
 ## What I Build Well
 
