@@ -30,7 +30,7 @@ My background is a little unusual in a useful way: 11 years in enterprise operat
 Install it in Claude Code, Cursor, VS Code, Windsurf, or any MCP client:
 
 ```bash
-claude mcp add epoch -- npx @puenteworks/epoch
+claude mcp add epoch -- npx @kyanitelabs/epoch
 ```
 
 Then use it on real tasks and share anonymized feedback: estimated duration, actual duration, task complexity, team context, model used, token/cost estimate, and whether the risk forecast was right. That data is how Epoch gets sharper.
