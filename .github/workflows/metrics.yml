@@ -1,0 +1,48 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          config_timezone: America/Los_Angeles
+          config_order: base.header, base.activity+community, repositories, isocalendar, languages
+
+          # Base
+          base: header, activity, community, repositories
+          base_indepth: yes
+
+          # Isocalendar (contribution heatmap ring)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+
+          # Activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: issue, pr, review, push
+
+          # Notable contributions
+          plugin_notable: yes
+          plugin_notable_from: organization
+
+          # Stars
+          plugin_stars: yes
+          plugin_stars_limit: 4
