@@ -28,6 +28,24 @@
 
 ---
 
+<p align="center">
+  <a href="mailto:simon@puenteworks.com"><img src="https://img.shields.io/badge/status-open%20to%20Forward--Deployed%20%2F%20Applied--AI%20roles%20%26%20contract%20work-3B9EFF?style=flat-square" alt="Open to Forward-Deployed and Applied AI Engineering roles and contract work" /></a>
+</p>
+
+### Open to Forward-Deployed / Applied-AI Engineering roles and contract work
+
+Proof, not a pitch — three repos that show how I build:
+
+| Repo | What it proves |
+| --- | --- |
+| [**mcp-video**](https://github.com/KyaniteLabs/mcp-video) | Guardrailed video-editing MCP server for AI agents — 119 tools over FFmpeg, preflight checks, 64 stars, real installs. |
+| [**checkyourself**](https://github.com/KyaniteLabs/checkyourself) | Evidence-based production-readiness auditor for AI-built apps — CLI + MCP, scored findings, guided fixes. |
+| [**dev-learning-archaeologist**](https://github.com/KyaniteLabs/dev-learning-archaeologist) | Turns git history into evidence-backed learning reports — forensic diagnostics, not vibes. |
+
+**Contact:** [simon@puenteworks.com](mailto:simon@puenteworks.com)
+
+---
+
 ## GitHub Stats
 
 <p align="center">
