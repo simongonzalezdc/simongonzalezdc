@@ -28,13 +28,14 @@
 
 ---
 
-## GitHub Stats
+## Selected work
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simongonzalezdc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub stats: commits, pull requests, issues, and contributions" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=simongonzalezdc&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub streak: current and longest contribution streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simongonzalezdc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top programming languages by usage" />
+  <a href="https://github.com/KyaniteLabs/mcp-video"><img src="https://img.shields.io/github/stars/KyaniteLabs/mcp-video?style=for-the-badge&label=mcp-video&color=58A6FF&labelColor=0d1117&logo=github" alt="mcp-video stars (live)" /></a>
+  <a href="https://github.com/KyaniteLabs/DialectOS"><img src="https://img.shields.io/github/stars/KyaniteLabs/DialectOS?style=for-the-badge&label=DialectOS&color=58A6FF&labelColor=0d1117&logo=github" alt="DialectOS stars (live)" /></a>
+  <a href="https://github.com/KyaniteLabs/Epoch"><img src="https://img.shields.io/github/stars/KyaniteLabs/Epoch?style=for-the-badge&label=Epoch&color=58A6FF&labelColor=0d1117&logo=github" alt="Epoch stars (live)" /></a>
 </p>
+<p align="center"><sub>119-tool flagship &middot; ~105&#9733; across public repos &middot; merged upstream in anything-llm, mcp2cli, google_workspace_mcp.<br/>Most of my work ships through the KyaniteLabs org &amp; self-hosted infra &mdash; GitHub shows the public tip.</sub></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=simongonzalezdc&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true" alt="Contribution activity graph over the past year" />
