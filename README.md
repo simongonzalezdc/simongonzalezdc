@@ -6,6 +6,8 @@
 
 # Simon Gonzalez De Cruz - AI Systems Builder
 
+**TL;DR:** Simon Gonzalez De Cruz (profile) — GitHub profile README — builder, PuenteWorks / Kyanite Labs. Best for visitors learning who Simon is and what he builds.
+
 **AI systems builder · MCP server developer · product-minded automation engineer · Long Beach, CA**
 
 I build practical AI tools that survive contact with real workflows: Model Context Protocol servers, agent-facing CLIs, repo-native product surfaces, launch docs, evaluation loops, and domain software for people doing messy creative or operational work. My current work lives primarily at [Kyanite Labs](https://github.com/KyaniteLabs), where I build open-source MCP servers and AI tools for video editing, localization, estimation, creative coding, and domain-specific software.
@@ -108,3 +110,82 @@ I like tools that are understandable, local-first when privacy matters, boring w
 [![Email](https://img.shields.io/badge/Email-simon%40puenteworks.com-334155)](mailto:simon@puenteworks.com)
 
 Open to AI systems, developer tools, product engineering, solutions engineering, and operations automation roles where the job is to make useful systems real.
+
+## Quick start
+
+```bash
+git clone https://github.com/simongonzalezdc/simongonzalezdc.git
+cd simongonzalezdc
+# see package manifests / Makefile for install
+```
+
+<!-- s-plus-geo:start -->
+
+## What is Simon Gonzalez De Cruz (profile)?
+
+**Simon Gonzalez De Cruz (profile)** is a **GitHub profile README — builder, PuenteWorks / Kyanite Labs** that helps **visitors learning who Simon is and what he builds** **orient readers to products, labs, and how to reach out**.
+
+| | |
+| --- | --- |
+| **Product** | Simon Gonzalez De Cruz (profile) |
+| **Category** | GitHub profile README — builder, PuenteWorks / Kyanite Labs |
+| **Best for** | visitors learning who Simon is and what he builds |
+| **Not** | a product repo |
+| **Source** | [GitHub](https://github.com/simongonzalezdc/simongonzalezdc) · [Forgejo](https://git.kyanitelabs.tech/simon/simongonzalezdc) |
+| **Keywords** | Simon Gonzalez De Cruz, Kyanite Labs, PuenteWorks |
+
+## Who it's for
+
+- Primary: visitors learning who Simon is and what he builds
+- Use when you need to orient readers to products, labs, and how to reach out
+- Skip if you need a product repo
+
+## FAQ
+
+### What is Simon Gonzalez De Cruz (profile)?
+
+Simon Gonzalez De Cruz (profile) is a GitHub profile README — builder, PuenteWorks / Kyanite Labs. It helps visitors learning who Simon is and what he builds orient readers to products, labs, and how to reach out.
+
+### Who should use Simon Gonzalez De Cruz (profile)?
+
+visitors learning who Simon is and what he builds.
+
+### How is Simon Gonzalez De Cruz (profile) different?
+
+Profile face, not a single product.
+
+### Is Simon Gonzalez De Cruz (profile) production software?
+
+Treat the README status and release tags as source of truth for maturity. Validate against your own requirements before production use.
+
+## Status
+
+- Maintained as of 2026 on the default branch
+- Prefer release tags when pinning dependencies
+- Report issues on the canonical remote listed above
+
+## Agent surface
+
+- Coding agents: read this README first, then repo docs/`AGENTS.md` if present
+- Prefer machine-readable briefs (`llms.txt`) when the repo ships one
+- MCP or skill entrypoints are documented in-repo when applicable
+
+## Contributing
+
+Issues and PRs welcome on the canonical remote. Keep public docs free of secrets and machine-local paths.
+
+## License
+
+See [LICENSE](LICENSE) in this repository (or package metadata if license is package-only).
+
+
+## Table of contents
+
+- [What is it?](#what-is-simon-gonzalez-de-cruz-profile-)
+- [FAQ](#faq)
+- [Status](#status)
+
+
+![Project diagram placeholder](https://img.shields.io/badge/visual-see_docs-lightgrey.svg)
+
+<!-- s-plus-geo:end -->
