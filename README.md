@@ -12,7 +12,7 @@
 
 I build practical AI tools that survive contact with real workflows: Model Context Protocol servers, agent-facing CLIs, repo-native product surfaces, launch docs, evaluation loops, and domain software for people doing messy creative or operational work. My current work lives primarily at [Kyanite Labs](https://github.com/KyaniteLabs), where I build open-source MCP servers and AI tools for video editing, localization, estimation, creative coding, and domain-specific software.
 
-My background is a little unusual in a useful way: 11 years in enterprise operations, learning systems, training, enablement, and HR technology, plus hands-on open-source engineering across Python, TypeScript, automation, media tooling, and AI agent infrastructure. I care about the parts where demos usually break: install paths, docs, metadata, tests, local execution, permissions, and whether a human can actually understand what the system is doing.
+My background is a little unusual in a useful way: 12 years in enterprise operations, learning systems, training, enablement, and HR technology, plus hands-on open-source engineering across Python, TypeScript, automation, media tooling, and AI agent infrastructure. I care about the parts where demos usually break: install paths, docs, metadata, tests, local execution, permissions, and whether a human can actually understand what the system is doing.
 
 ## Current Focus
 
